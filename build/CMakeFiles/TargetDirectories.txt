@@ -1,0 +1,7 @@
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/rebuild_cache.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/benchmark-openmp.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/benchmark-blas.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/edit_cache.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/benchmark-vectorized.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/benchmark-basic.dir
+/global/homes/h/haodeng/CSC656-codingproject-3/build/CMakeFiles/benchmark.dir
